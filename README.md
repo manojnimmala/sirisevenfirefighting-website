@@ -41,7 +41,7 @@ It includes:
 ## 📞 Contact Details
 📍 Dubai, UAE  
 📧 siri7firesafety@gmail.com  
-📱 +971 54 381 9195  
+📱 +971 52 527 4187  
 
 ---
 
@@ -49,7 +49,7 @@ It includes:
 Developed by **Manoj Nimmala**
 
 📱 WhatsApp: +91 9010990405  
-🔗 LinkedIn: (add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/manoj-nimmala-77897a256/
 
 ---
 
