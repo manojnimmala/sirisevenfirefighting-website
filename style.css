@@ -1,4 +1,6 @@
-/* General */
+.menu-icon{
+    display:none;
+}
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -534,4 +536,38 @@ section {
     width: 100%;
   }
 
+}
+
+@media (max-width: 768px) {
+
+  .menu-icon {
+    display: block;
+    font-size: 24px;
+    cursor: pointer;
+  }
+
+  .mobile-menu {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 75%;
+    height: 100vh;
+    background: #fff;
+    padding-top: 80px;
+    transition: 0.3s;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mobile-menu a {
+    padding: 15px 20px;
+    border-bottom: 1px solid #eee;
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .mobile-menu.active {
+    right: 0;
+  }
 }
