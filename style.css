@@ -83,7 +83,7 @@ section {
     min-height: 90vh;
     background: url("images/half-logo.jpeg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center 10%;
     background-size: cover;
     color: white;
 
@@ -98,7 +98,7 @@ section {
 }
 .hero h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 36;
+    font-size: 36px;
     margin-bottom: 16px;
 }
 
@@ -476,11 +476,11 @@ section {
   }
   
   .hero{
-    min-height: 90vh;
+    min-height: 100vh;
     background-image: url("images/half-logo.jpeg");
     background-repeat: no-repeat;
-    background-size: conver top;
-    background-position: center;
+    background-size: cover;
+    background-position: center 10%;
   }
 
   .hero h1{
