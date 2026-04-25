@@ -465,9 +465,10 @@ section {
     align-items: center;
   }
 
-  nav {
-    display: none; /* hide normal menu */
+  .nav-links{
+    display:none;
   }
+
 
   .menu-icon {
     display: block;
@@ -487,7 +488,6 @@ section {
     transition: 0.3s;
     display: flex;
     flex-direction: column;
-    z-index: 999;
   }
 
   .mobile-menu a {
