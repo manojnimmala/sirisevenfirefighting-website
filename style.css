@@ -94,7 +94,7 @@ section {
 
     text-align: center;
     position: relative;
-    padding: 80px 20px;
+    padding: 60px 20px;
 }
 .hero h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -476,12 +476,14 @@ section {
   }
   
   .hero{
+    min-height: 85vh;
     background-size: contain !important;
     background-position: center top !important;
+    padding: 40px 15px;
   }
 
   .hero h1{
-    font-size: 22px;
+    font-size: 24px;
   }
   .hero p{
     font-size: 14px;
