@@ -484,12 +484,12 @@ section {
     position: fixed;
     top: 0;
     left: -100%;
-    width: 100%;
+    width: 75%;
     height: 100%;
     background: #fff;
     padding-top: 80px;
     transition: 0.3s;
-    display: block;
+    display: flex;
     flex-direction: column;
     z-index: 999;
   }
