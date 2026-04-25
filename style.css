@@ -477,9 +477,10 @@ section {
   
   .hero{
     min-height: 90vh;
-    background-size: conver !important;
-    background-position: center  !important;
-    background-color: #d70c15;
+    background-image: url("images/half-logo.jpeg");
+    background-repeat: no-repeat;
+    background-size: conver top;
+    background-position: center;
   }
 
   .hero h1{
