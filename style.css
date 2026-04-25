@@ -471,7 +471,11 @@ section {
   nav{
     display:none;
   }
-
+  
+  .hero{
+    background-size: contain;
+    background-position: center top;
+  }
 
   .menu-icon {
     display: block;
