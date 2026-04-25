@@ -476,10 +476,10 @@ section {
   }
   
   .hero{
-    min-height: 85vh;
-    background-size: contain !important;
-    background-position: center top !important;
-    padding: 40px 15px;
+    min-height: 90vh;
+    background-size: conver !important;
+    background-position: center  !important;
+    background-color: #d70c15;
   }
 
   .hero h1{
