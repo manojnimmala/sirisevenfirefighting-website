@@ -81,7 +81,10 @@ section {
 /* Hero */
 .hero {
     min-height: 90vh;
-    background: url("images/half-logo.jpeg") no-repeat center/cover;
+    background: url("images/half-logo.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color: white;
 
     display: flex;
@@ -473,8 +476,8 @@ section {
   }
   
   .hero{
-    background-size: contain;
-    background-position: center top;
+    background-size: contain !important;
+    background-position: center top !important;
   }
 
   .hero h1{
