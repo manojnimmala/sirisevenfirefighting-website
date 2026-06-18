@@ -1,64 +1,74 @@
 # 🔥 Siri Seven Fire Safety Website
 
-A simple and responsive company website built using HTML and CSS for **Siri Seven Fire Fighting Safety Equipment Installation L.L.C**.
+A responsive corporate website developed for **Siri Seven Fire Fighting Safety Equipment Installation L.L.C.**, a fire safety solutions company based in Dubai, UAE. The website was built using HTML5 and CSS3 with a focus on accessibility, responsiveness, and search engine optimization.
 
----
+## 🌐 Live Demo
 
-## 🌐 Live Website
-👉 https://manojnimmala.github.io/sirisevenfirefighting-website/
+**Website:**
+https://manojnimmala.github.io/sirisevenfirefighting-website/
 
----
+## 📖 Project Overview
 
-## 📌 About Project
-This website represents a fire safety service company based in Dubai, UAE.
+This project was created to establish an online presence for a fire safety service provider and showcase its services, clients, and contact information in a professional manner.
 
-It includes:
-- Company introduction
-- Services offered
-- Client section
-- Contact details
-- WhatsApp integration
+The website provides visitors with:
 
----
+* Company overview and business information
+* Fire safety services and solutions
+* Client showcase section
+* Contact information and quick communication options
+* Mobile-friendly browsing experience
+
+## ✨ Key Features
+
+* Responsive design for mobile, tablet, and desktop devices
+* Sticky navigation bar for improved usability
+* Hero section with company branding
+* WhatsApp integration for instant customer communication
+* Click-to-call functionality
+* Interactive popup message
+* Client showcase section
+* Optimized page structure and SEO improvements
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
 
----
+* HTML5
+* CSS3
 
-## 📂 Features
-- Responsive design (mobile friendly)
-- Sticky navigation bar
-- Hero section with background image
-- WhatsApp contact button
-- Click-to-call feature
-- Popup message
-- Client showcase section
+## 🔍 SEO Improvements Implemented
 
----
+As part of the project audit and optimization process, several SEO-related issues were identified and addressed, including:
 
-## 📞 Contact Details
-📍 Dubai, UAE  
-📧 siri7firesafety@gmail.com  
-📱 +971 52 527 4187  
+* Improved page metadata and title structure
+* Optimized heading hierarchy (H1–H3)
+* Added descriptive image alt attributes
+* Enhanced content structure for better search engine visibility
 
----
+## 📂 Project Structure
+
+```text
+sirisevenfirefighting-website/
+│
+├── index.html
+├── style.css
+├── images/
+└── README.md
+```
+
+## 🚀 Future Enhancements
+
+* Contact form integration
+* Advanced animations and transitions
+* Performance optimization
+* Additional service pages
+* Enhanced SEO and analytics integration
 
 ## 👨‍💻 Developer
-Developed by **Manoj Nimmala**
 
-📱 WhatsApp: +91 9010990405  
-🔗 LinkedIn: https://www.linkedin.com/in/manoj-nimmala-77897a256/
+**Manoj Nimmala**
 
----
+LinkedIn: https://www.linkedin.com/in/manoj-nimmala-77897a256/
 
-## 🚀 Future Improvements
-- Add animations
-- Improve UI design
-- Add contact form
-- SEO optimization
+## 📄 License
 
----
-
-⭐ If you like this project, feel free to give a star!
+This project was developed for portfolio and demonstration purposes. All company-related content, branding, and business information belong to Siri Seven Fire Fighting Safety Equipment Installation L.L.C.
