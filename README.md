@@ -125,6 +125,14 @@ LinkedIn: https://www.linkedin.com/in/manoj-nimmala-77897a256/
 GitHub: https://github.com/manojnimmala
 
 ---
+## 🤝 Team & Collaboration
+
+This project was completed in collaboration with **Sindhu Chinthakindi** (remote, India), 
+who supported client communication, contributed design input, and worked on select 
+HTML/CSS sections of the site. I (Manoj) led the project end-to-end: front-end 
+development, deployment, DNS/email configuration, and the SEO/accessibility audit.
+
+Sindhu's repo: https://github.com/sindhurachinthakindi/siri7fire-website-clientproject
 
 ## 📄 License
 
