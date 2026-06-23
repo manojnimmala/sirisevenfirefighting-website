@@ -1,8 +1,7 @@
 # 🔥 Siri Seven Fire Safety Website
 
-A professional corporate website designed, developed, and deployed for **Siri Seven Fire Fighting Safety Equipment Installation L.L.C., Dubai, UAE**.
-
-This project involved complete end-to-end delivery, including logo design, website design, front-end development, domain configuration, DNS management, business email setup, deployment, and SEO optimization.
+A professional corporate website designed, developed, and deployed for **Siri Seven 
+Fire Fighting Safety Equipment Installation L.L.C., Dubai, UAE**.
 
 ---
 
@@ -14,40 +13,57 @@ This project involved complete end-to-end delivery, including logo design, websi
 
 ## 📖 Project Overview
 
-Siri Seven Fire Safety is a Dubai-based company providing fire fighting, fire alarm, maintenance, testing, inspection, and safety equipment installation services.
+Siri Seven Fire Safety is a Dubai-based company providing fire fighting, fire alarm, 
+maintenance, testing, inspection, and safety equipment installation services.
 
-The goal of this project was to establish a professional online presence for the company, improve customer accessibility, and provide clear information about services, clients, and contact channels.
+Built and deployed a complete production-ready website from scratch — handling 
+front-end development, domain configuration, business email setup, deployment, 
+and a full SEO and accessibility audit.
 
 ---
 
 ## 🚀 My Responsibilities
 
-* Logo design and brand identity creation
-* Website UI/UX design and planning
-* Front-end development using HTML5 and CSS3
-* Responsive layout implementation
-* Domain setup and configuration
-* DNS record management
-* Website deployment and hosting
-* Zoho Mail business email setup
-* SEO audit and optimization
-* Performance and usability improvements
-* Client support and maintenance
+- Built the complete website from scratch using HTML, CSS, and JavaScript
+- Deployed via Vercel and connected to custom domain siri7fire.com
+- Configured DNS records (A, CNAME, MX, SPF) on GoDaddy
+- Set up business email through Zoho Mail
+- Conducted full on-page and off-page SEO audit — identified and fixed 6 issues:
+  - Missing meta description and title tag
+  - Broken H1 → H2 → H3 heading hierarchy
+  - Images missing alt text
+  - Low-contrast text (#555 → #333, WCAG compliant)
+  - H4 skip in contact section
+  - Missing semantic `<main>` landmark
+- Added Open Graph meta tags for WhatsApp and LinkedIn previews
+- Set up and managed Zoho CRM (leads, contacts, deals, automation, dashboards)
+- Built Zoho Creator app for project and service request tracking
+- Continue to manage and maintain the live site remotely on an ongoing basis
+
+---
+
+## 📈 Results
+
+| Metric | Before | After |
+|---|---|---|
+| Performance | 86 | 99 |
+| Accessibility | 54 | 81 |
+| Best Practices | 100 | 100 |
+| SEO Score | — | 91 |
 
 ---
 
 ## ✨ Key Features
 
-* Responsive design for mobile, tablet, and desktop devices
+* Responsive design for mobile, tablet, and desktop
 * Professional company branding and custom logo
 * Sticky navigation bar
 * Hero section with company information
-* Services showcase section
+* Services showcase across 8 sections
 * Client showcase section
 * WhatsApp integration for instant communication
 * Click-to-call functionality
-* Contact information section
-* Interactive popup message
+* Open Graph tags for social sharing previews
 * SEO-friendly page structure
 * Business email integration
 
@@ -55,39 +71,13 @@ The goal of this project was to establish a professional online presence for the
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+* HTML5, CSS3, JavaScript
 * Git & GitHub
-* GitHub Pages
-* Custom Domain Configuration
-* DNS Management
-* Zoho Mail
-
----
-
-## 🔍 SEO Improvements Implemented
-
-Conducted a website audit and implemented several SEO improvements, including:
-
-* Optimized page titles and metadata
-* Improved heading hierarchy (H1–H3 structure)
-* Added descriptive image alt attributes
-* Enhanced content organization for better search visibility
-* Improved accessibility and crawlability
-* Optimized page structure for search engines
-
----
-
-## 🌍 Deployment & Infrastructure
-
-Successfully managed the complete deployment process:
-
-* Connected custom domain (**[www.siri7fire.com](http://www.siri7fire.com)**)
-* Configured DNS records and domain verification
-* Deployed website to production environment
-* Integrated Zoho Mail business email services
-* Configured business email functionality
-* Managed website hosting and publishing
+* Vercel (deployment)
+* GoDaddy (DNS management)
+* Zoho Mail (business email)
+* Zoho CRM & Zoho Creator
+* Google PageSpeed Insights (SEO/performance audit)
 
 ---
 
@@ -102,40 +92,12 @@ sirisevenfirefighting-website/
 ├── assets/
 └── README.md
 ```
-
+##Developer
+Manoj Nimmala
 ---
-
-## 🏆 Project Highlights
-
-* Delivered a complete production-ready website for a real client
-* Designed the company logo and branding assets
-* Configured custom domain and DNS records
-* Set up Zoho business email services
-* Implemented SEO improvements based on a website audit
-* Successfully deployed and maintained the live website
-
----
-
-## 👨‍💻 Developer
-
-**Manoj Nimmala**
-
-LinkedIn: https://www.linkedin.com/in/manoj-nimmala-77897a256/
-
-GitHub: https://github.com/manojnimmala
-
----
-## 🤝 Team & Collaboration
-
-This project was completed in collaboration with **Sindhu Chinthakindi** (remote, India), 
-who supported client communication, contributed design input, and worked on select 
-HTML/CSS sections of the site. I (Manoj) led the project end-to-end: front-end 
-development, deployment, DNS/email configuration, and the SEO/accessibility audit.
-
-Sindhu's repo: https://github.com/sindhurachinthakindi/siri7fire-website-clientproject
 
 ## 📄 License
 
-This project was developed for **Siri Seven Fire Fighting Safety Equipment Installation L.L.C.** All company branding, business information, and content belong to their respective owner.
-
----
+This project was developed for **Siri Seven Fire Fighting Safety Equipment 
+Installation L.L.C.** All company branding, business information, and content 
+belong to their respective owner.
